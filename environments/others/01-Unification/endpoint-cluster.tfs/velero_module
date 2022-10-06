@@ -1,0 +1,15 @@
+module "velero" {
+  source  = "nlamirault/velero/google"
+  version = "~> 1.4.0"
+
+  project = "br-chek-prod"
+
+  bucket_location      = "us"
+  bucket_storage_class = "Standard"
+
+  namespace       = "velero"
+  service_account = "sa-velero-gke-endpoints-prod@br-chek-prod.iam.gserviceaccount.com"
+
+  keyring_location = "us-east4"
+
+}

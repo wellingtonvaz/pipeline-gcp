@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "unik-cicd",
+  "private_key_id": "e3a651a737bc880298d637f542dfea8a560a7218",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCz3BER5MUrVYPt\nr62FH8UPYcgoBbf9V5QqVnp4HaMJNvK/CF0VAlxUlonlLD6/XrPksC0SwAbFXTX3\ng2lCw8O9kk4qpi8xQj8bVS7HRYRdqksG5OT/5BNcHlqPWSfP2uUzeHSdVsTEs3HC\nBUPqZzRuz5klvCSTl9R6phDuXDE8iNY2FgWEjjbTIZOicxKP+Jzbhk/5cBoGr+0w\n1dBypdE6fCqXt/FkVjaaIrYvSXAEq5enHzeYZZfa4dwu2oDQbL/Xi0dRd8N+/SC/\n//zZkjvBzVC7elE+V74iPSo1sqlZhrbaVvEtnSqlbAln6mMiImK+qStcCF7MJK2c\n8IayZ62hAgMBAAECggEAD6YH/iyPUxPfpKByUnDPLmVtir3kojAqffyEL0s00ipr\nuF876gYIjnuCh+Pvmardr/n8EfOPI0DW3zAZymtJ7oZ6Mo++72Q6JWCl70SHHbch\nS/pCSllHre4eJva01grPgkjqrH3OJOcP8LeQjyZnk3SQeI4ECKtfG0SzmGmBBykj\nSkFPxACvejZ7CWBg2HwMPm2vMqB7nEXfPmuAP9TsTc6bVx3/YfKaXShZZ0qQgSRM\nBHmEJDST+cirJ9oEyIcXeO3M1wKpXi3E012PQvI4eqiPF+I6ZS67wijRZeQsbp2l\npK6C2LcjZteJcIebH3qtBGEgg7Mh95HF9QpOvXmAgQKBgQDgGf5q881v7HJ5QhjU\n/IM5i3i6l244Fa+KkJuBWsbBgczkf2mEgO3ZVdXOYExHSJ9QNnVBRnchaD0wqH9l\nUrgpBmqGviTdWXemU4c1uzIrDcDVGMMUcCKXVrPYd+2eirkVUDL2Xlw1Cl/ARPQ/\n0jJRe5/By7u5Jqgu6G3/s0ZaGQKBgQDNdfKyqSgP88uw4D58CIIyFbDYFcmSWdAw\nJipisrYzES4ClTz7qWbp5LqEg3lxHvbEN8GM02F6vdxjqsJXRMhA+UxP8EgyV9gh\n7Te9Tvn/EH0vM6wXNWtBJ3VntXAsWuB51hk5ygvi7fmBnQh4qB+ireJP737yNViw\nUvuUBsBwyQKBgQDIXRVGxLJiJnJ3DeyryRT+hz+q/Kd0B5eKeR4/+kyISKhLh8ts\nx+Vgksj1ms24Uir2iaoucXUj7lH/RjeY/Otg6ralwC2vpkU+9aGHHdaN/d7x6BDL\nHjMfQkrL+PX/8SHn92uJMPaaCatweXYz9Zg9mB1PJPuzX+exAOkQXFZDSQKBgQDD\nZoFC2Q143mvB9AJ5A76O04I0f8QMo84TfLii1UPinVwcqMIutZVirF2W2VMN+lzF\nkCFLRV1X1mlbgHMDfC7XXEDvZZ3EAzdSTMDOEeZAZfYohgQMrokqldRapXvhMyx5\nstya0UUstRat5iLAXWR42tZ5H1SkFYgbaVBKH4G1wQKBgQDOFRM7GuKQeOkmjQ9n\nSebID34mDmq0qGCaCN0nJLdZv1JnTFxSjB9RIc1Gv49VAZBJGBKBUrj0zVq6X66j\nUF7iEyYxwZPPpH4DZWenI/nzJb2fzm3ggArKMPeqVvBeiGpnEzmnwfwS6ztY/Rxh\nODcI3sx0K/DHKBl85h4Wt26j3Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-terraform-cloudbuild@unik-cicd.iam.gserviceaccount.com",
+  "client_id": "117074448844819367080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-terraform-cloudbuild%40unik-cicd.iam.gserviceaccount.com"
+}
