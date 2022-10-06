@@ -1,4 +1,4 @@
-resource "google_container_cluster" "endpoints-cluster-prod" {
+/*resource "google_container_cluster" "endpoints-cluster-prod" {
   addons_config {
     dns_cache_config {
       enabled = "false"
@@ -60,4 +60,4 @@ resource "google_container_cluster" "endpoints-cluster-prod" {
   node_locations  = ["us-east1-b", "us-east1-c", "us-east1-d"]
   project         = "unik-cicd"
   subnetwork      = "projects/unik-shared-vpc-master/regions/us-east1/subnetworks/unik-amosh-gke-nodes-subnet"
-}
+}*/
