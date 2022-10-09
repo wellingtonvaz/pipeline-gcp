@@ -1,4 +1,4 @@
-/*resource "google_container_node_pool" "endpoints-cluster_endpoints-pool-1-prod" {
+resource "google_container_node_pool" "endpoints-cluster_endpoints-pool-1-prod" {
   cluster            = google_container_cluster.endpoints-cluster-prod.name
   initial_node_count = "0" ## Para escalar o NodePool, mude o "initial_node_count" de 0 para 1 nesta linha. Se quiser escalar a zero mude de 1 para 0 ##
   location           = "us-east1"
@@ -48,4 +48,4 @@
 
   node_locations = ["us-east1-d", "us-east1-b", "us-east1-c"]
   project        = "unik-cicd"
-  }*/
+  }
